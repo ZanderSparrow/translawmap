@@ -1,5 +1,6 @@
 {
   "name": "translawmap",
+  "homepage": "https://zandersparrow.github.io/translawmap/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
