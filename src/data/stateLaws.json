@@ -1,0 +1,359 @@
+{
+    "AL": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, insurance rarely covers",
+      "summary": "Strict laws with surgical requirements",
+      "alignment": "conservative"
+    },
+    "AK": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Available, partial insurance coverage",
+      "summary": "Moderate access with court process",
+      "alignment": "moderate"
+    },
+    "AZ": {
+      "genderMarker": "Physician certification",
+      "idX": false,
+      "hormones": "Available, variable insurance",
+      "summary": "Moderate access with medical certification",
+      "alignment": "moderate"
+    },
+    "AR": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Highly restrictive laws",
+      "alignment": "very conservative"
+    },
+    "CA": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Widely available, covered",
+      "summary": "Very progressive laws",
+      "alignment": "very progressive"
+    },
+    "CO": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "CT": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "DE": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, partial coverage",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "FL": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Highly restrictive laws",
+      "alignment": "very conservative"
+    },
+    "GA": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Available, variable coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "HI": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "ID": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "IL": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "IN": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Available, variable coverage",
+      "summary": "Moderate restrictions",
+      "alignment": "moderate"
+    },
+    "IA": {
+      "genderMarker": "Physician certification",
+      "idX": false,
+      "hormones": "Available, partial coverage",
+      "summary": "Moderate access",
+      "alignment": "moderate"
+    },
+    "KS": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "KY": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "LA": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Highly restrictive laws",
+      "alignment": "very conservative"
+    },
+    "ME": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "MD": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "MA": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Very progressive laws",
+      "alignment": "very progressive"
+    },
+    "MI": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, partial coverage",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "MN": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "MS": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Highly restrictive laws",
+      "alignment": "very conservative"
+    },
+    "MO": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, variable coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "MT": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Available, partial coverage",
+      "summary": "Moderate restrictions",
+      "alignment": "moderate"
+    },
+    "NE": {
+      "genderMarker": "Physician certification",
+      "idX": false,
+      "hormones": "Available, variable coverage",
+      "summary": "Moderate access",
+      "alignment": "moderate"
+    },
+    "NV": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, partial coverage",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "NH": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "NJ": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "NM": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "NY": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Very progressive laws",
+      "alignment": "very progressive"
+    },
+    "NC": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, variable coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "ND": {
+      "genderMarker": "Physician certification",
+      "idX": false,
+      "hormones": "Available, limited coverage",
+      "summary": "Moderate restrictions",
+      "alignment": "moderate"
+    },
+    "OH": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Available, variable coverage",
+      "summary": "Moderate restrictions",
+      "alignment": "moderate"
+    },
+    "OK": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Highly restrictive laws",
+      "alignment": "very conservative"
+    },
+    "OR": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Very progressive laws",
+      "alignment": "very progressive"
+    },
+    "PA": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, partial coverage",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "RI": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "SC": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "SD": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "TN": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Highly restrictive laws",
+      "alignment": "very conservative"
+    },
+    "TX": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Restricted, variable coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "UT": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Available, partial coverage",
+      "summary": "Moderate restrictions",
+      "alignment": "moderate"
+    },
+    "VT": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Very progressive laws",
+      "alignment": "very progressive"
+    },
+    "VA": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Progressive laws",
+      "alignment": "progressive"
+    },
+    "WA": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Very progressive laws",
+      "alignment": "very progressive"
+    },
+    "WV": {
+      "genderMarker": "Surgery required",
+      "idX": false,
+      "hormones": "Restricted, limited coverage",
+      "summary": "Restrictive laws",
+      "alignment": "conservative"
+    },
+    "WI": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Available, variable coverage",
+      "summary": "Moderate restrictions",
+      "alignment": "moderate"
+    },
+    "WY": {
+      "genderMarker": "Court order needed",
+      "idX": false,
+      "hormones": "Available, partial coverage",
+      "summary": "Moderate restrictions",
+      "alignment": "moderate"
+    },
+    "DC": {
+      "genderMarker": "Self-attestation",
+      "idX": true,
+      "hormones": "Available, covered",
+      "summary": "Very progressive laws",
+      "alignment": "very progressive"
+    }
+  }

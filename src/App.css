@@ -1,38 +1,84 @@
-.App {
-  text-align: center;
+path {
+  pointer-events: all;
+  stroke: "#FFFFFF";
+  stroke-width: 1;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+path:hover {
+  opacity: 0.5;
+  cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.map-container {
+  width: 100%;
+  height: 0;
+  padding-bottom: 60%; /* Adjust this value to change the aspect ratio */
+  position: relative;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.map-container svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.modern-modal .modal-content {
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  animation: slideIn 0.3s ease-out;
+}
+
+.modern-modal .modal-header {
+  background: white;
+  padding: 1.5rem 2rem 0;
+}
+
+.modern-modal .modal-body {
+  padding: 0 2rem 2rem;
+}
+
+.summary-box {
+  background: #8989fb; 
+  transition: transform 0.2s ease;
+}
+
+.info-list {
+  font-size: 0.95rem;
+}
+
+.info-item {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 1rem;
 }
 
-.App-link {
-  color: #61dafb;
+.info-item span:first-child {
+  color: #333;
 }
 
-@keyframes App-logo-spin {
+.info-item span:last-child {
+  text-align: right;
+  flex: 1;
+}
+
+@keyframes slideIn {
   from {
-    transform: rotate(0deg);
+    opacity: 0;
+    transform: translateY(20px);
   }
   to {
-    transform: rotate(360deg);
+    opacity: 1;
+    transform: translateY(0);
   }
+}
+
+.state-hover:hover {
+  fill: #ffb6c1;
+  cursor: pointer;
+  transition: fill 0.3s ease;
 }
