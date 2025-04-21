@@ -1,5 +1,6 @@
 import { Modal } from "react-bootstrap";
 import stateLaws from "./data/stateLaws.json";
+import "./StateModal.css";
 
 const StateModal = ({ selectedState, showModal, setShowModal }) => {
     if (!selectedState) return null;
